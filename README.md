@@ -1,3 +1,3 @@
-Security & Attack Maps
+Security
 
-[README](https://github.com/NetSysIT/security/blob/main/maps.md)
+[Attack Maps](https://github.com/NetSysIT/security/blob/main/maps.md)
